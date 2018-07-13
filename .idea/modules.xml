@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/pyworkspace/Tensorflow-Tutorial/.idea/Tensorflow-Tutorial.iml" filepath="D:/pyworkspace/Tensorflow-Tutorial/.idea/Tensorflow-Tutorial.iml" />
+      <module fileurl="file://D:/pyworkspace/learn-python3/.idea/learn-python3.iml" filepath="D:/pyworkspace/learn-python3/.idea/learn-python3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonLearning.iml" filepath="$PROJECT_DIR$/.idea/pythonLearning.iml" />
+      <module fileurl="file://D:/pyworkspace/test/.idea/test.iml" filepath="D:/pyworkspace/test/.idea/test.iml" />
+      <module fileurl="file://D:/pyworkspace/tflearning/.idea/tflearning.iml" filepath="D:/pyworkspace/tflearning/.idea/tflearning.iml" />
+      <module fileurl="file://D:/pyworkspace/tutorials/.idea/tutorials.iml" filepath="D:/pyworkspace/tutorials/.idea/tutorials.iml" />
+    </modules>
+  </component>
+</project>
